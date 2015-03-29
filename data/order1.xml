@@ -6,12 +6,12 @@ Jim wants a #8 for eat-in
 <!DOCTYPE order SYSTEM 'bonanza.dtd'>
 
 <order type="eatin">
-    <customer>Jim</customer>
-    <burger>
-        <patty type="beef"/>
-        <cheeses top="gruyere"/>
-        <topping type="shrooms"/>
-        <sauce type="ketchup"/>
-        <sauce type="mayo"/>
-    </burger>
+<customer>Jim</customer>
+<burger>
+<patty type="beef"/>
+<cheeses top="gruyere"/>
+<topping type="shrooms"/>
+<sauce type="ketchup"/>
+<sauce type="mayo"/>
+</burger>
 </order>
